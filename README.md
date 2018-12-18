@@ -11,7 +11,7 @@ initial points instead of final, production ready programs.
 
 The repository is divided by the category of the script:
 
-1. __Google OCR__: We use [Google Vision API](https://cloud.google.com/vision/) to extract the text
+1. __[Google OCR](https://github.com/StrolyCom/utilities/tree/master/google_ocr)__: We use [Google Vision API](https://cloud.google.com/vision/) to extract the text
 from images. This category includes several tools to visualize, process, or analyze the output of
 the API, mainly of the OCR.
 2. __Machine Learning__: Many machine learning projects are on the pipeline for Stroly. Here we include
