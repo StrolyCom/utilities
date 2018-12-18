@@ -4,6 +4,8 @@ This repository contains various utilities we have developed for several project
 or proofs of concept. 
 They are rarely or never used in the final product [www.stroly.com](https:\\www.stroly.com).
 
+![Logo](https://raw.githubusercontent.com/StrolyCom/utilities/master/resources/mv_logo.png)
+
 In general they were used for a single purpose, sometimes a one-off, hence they are more 
 initial points instead of final, production ready programs.
 

@@ -16,6 +16,8 @@ in batch, with the content of a complete directory.
 It creates two images, one contains only the texts in the same position and trying to approximate
 the same size. The other one draws the detected polygons on top of the original image
 
+![Texts](https://raw.githubusercontent.com/StrolyCom/utilities/master/google_ocr/images_example/output/_JTB_MyTokyo_EN_Zentaizu_text.jpg)
+![Polygons](https://raw.githubusercontent.com/StrolyCom/utilities/master/google_ocr/images_example/output/_JTB_MyTokyo_EN_Zentaizu.jpg)
 
 Usage:
 
